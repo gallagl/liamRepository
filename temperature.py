@@ -45,5 +45,6 @@ for i in range(len(given)):
 f.display(circleGrid)
 f.display(squareGrid)
 
+print("Successful run")
 
 
